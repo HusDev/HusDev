@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-
 My name is Hussein. 
 - I was born in Baghdad, Iraq 🇮🇶 
-- I live in Barcelona, Spain  🇪🇸
-- 📫 reach me: hello@hussein-hasan.dev
+- I live in Zaragoza, Spain  🇪🇸
 
-- 🚀 Check my cool projects below: 
+I'm Interested in web performance topics, check my blog here: [00ff00.dev](https://www.00ff00,dev/)
 
 ## Portfolios and case studies
 
