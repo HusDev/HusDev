@@ -4,7 +4,7 @@ My name is Hussein.
 - I was born in Baghdad, Iraq 🇮🇶 
 - I live in Zaragoza, Spain  🇪🇸
 
-I'm Interested in web performance topics, check my blog here: [00ff00.dev](https://www.00ff00,dev/)
+I'm Interested in web performance topics, check my blog here: [00ff00.dev](https://www.00ff00.dev/)
 
 ## Portfolios and case studies
 
